@@ -1,6 +1,8 @@
 fidelis-util
 ============
 
+An exercise to learn the integration of git, github, maven and eclipse.
+
 Java utility classes.
 
 ### Debug
